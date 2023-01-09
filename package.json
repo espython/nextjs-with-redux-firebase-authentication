@@ -11,7 +11,7 @@
     "@zeit/next-css": "^1.0.1",
     "es6-promise": "latest",
     "firebase": "^7.5.0",
-    "firebase-admin": "^8.8.0",
+    "firebase-admin": "^11.4.1",
     "isomorphic-unfetch": "latest",
     "js-cookie": "^2.2.1",
     "next": "latest",
